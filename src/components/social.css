@@ -1,0 +1,40 @@
+.social{
+    width: 20%;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px auto;
+  }
+  
+  .social a{
+    color: red;
+  }
+  
+  .fa-sharp-solid {
+    background-color: black;
+    border-radius: 0.2em;
+    padding: 0.3em;
+  }
+  
+  .logos{
+    font-size: 30px;
+    margin-bottom: 160px;
+    color: #ffffff;
+  }
+  
+  .logos:hover{
+    transition: 0.5s;
+    text-shadow: 4px 4px #009688;
+  }
+
+  .header{
+    width: 100%;
+    height: 75vh;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+  }
+  

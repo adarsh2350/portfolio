@@ -1,0 +1,68 @@
+#ededucation{
+  height: 90vh;
+}
+
+#ededu{
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom: 50px;
+  width: 75%;
+  height: 95%;
+  display: flex;
+  flex-direction: column;
+  color: rgb(83, 78, 78);
+}
+.edEsiz{
+  margin: auto;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  height: 65vh;
+  width: 40%;
+  position: relative;
+  text-align: justify;
+}
+.edEsiz span{
+  text-align: top right;
+  font-size: 30px;
+  color: royalblue;
+}
+.edEsiz h3{
+  text-align: right;
+  font-size: 20px;
+  color: sandybrown;
+}
+.edEsiz h4{
+  text-align: right;
+  font-size: 15px;
+}
+.edEsiz p{
+  font-size: 18px;
+}
+.edEsiz:nth-child(2n){
+  margin-left: 55%;
+}
+.edEsiz:nth-child(2n+1){
+  margin-right: 55%;
+}
+
+.edimg{
+  height: 150px;
+  border: 2px red;
+}
+
+.btc{
+  margin-left: 36px;
+}
+
+.btc1{
+  margin-left: 30px;
+}
+
+#ede1{
+  margin-bottom: 100px;
+}
+
+.view{
+  height: 178vh;
+  padding-bottom: 200px;
+}

@@ -1,0 +1,31 @@
+.timeline{
+    position: relative;
+    margin: 100px;
+    height: 100vh;
+}
+
+.timeline-box{
+    position: relative;
+    margin: 5px;
+    height: 20vh;
+    width: 40%;
+    left: 5%;
+}
+
+.timeline-box:nth-child(2n+1){
+    left: 54.5%;
+}
+
+.timeline-divider-web{
+    position: absolute;
+    height: 85%;
+    width: 0;
+    border: 3px solid #009688;
+    left: 50%;
+}
+
+.github{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
