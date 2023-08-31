@@ -35,7 +35,7 @@
 .skillbox{
     border: 2px solid rgb(32, 32, 32);
     width: 20vw;
-    height: 40vh;
+    height: 50vh;
     border-radius: 25px;
     padding: 20px;
 }
@@ -53,3 +53,6 @@
     font-weight: bolder;
 }
 
+.DS-head{
+    font-size: 25px;
+}

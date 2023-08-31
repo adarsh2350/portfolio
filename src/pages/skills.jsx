@@ -18,11 +18,11 @@ const skills = () => {
         </div>
         <div className='body'>
             <div className="skillbox cp">
-              <h1>Competitive Programming</h1>
+              <h1 className='DS-head'>Competitive Programming</h1><br />
               <div className='sklbx'>
                 Codeforces :
                 <NavLink style={{color: '#03a89e'}} className="skllink" to="https://codeforces.com/profile/adarsh2002"> adarsh2002</NavLink>,
-                <span> Max rating <span style={{color: '#03a89e'}}>1575</span> (<span style={{color: '#03a89e'}}>specialist</span>)</span><br /><br />
+                <span> Max rating <span style={{color: '#03a89e'}}>1575</span> <br />(<span style={{color: '#03a89e'}}>specialist</span>)</span><br /><br />
                 CodeChef :
                 <NavLink style={{color: '#FFBF00'}} className="skllink" to="https://www.codechef.com/users/aadarsh2350"> adarsh2350</NavLink>,
                 <span> Max rating <span style={{color: '#FFBF00'}}>2051</span> <br />(<span style={{color: '#FFBF00'}}>5 star</span> rated)</span><br /><br />
@@ -32,7 +32,7 @@ const skills = () => {
               </div>
             </div>
             <div className="skillbox webd">
-              <h1>WebD</h1>
+              <h1 className='DS-head'>WebD</h1>
               <h1 style={{color: "white"}}>-</h1>
               <div className='sklbx'>
                 TechStack : MERN<br /><br />
@@ -43,7 +43,7 @@ const skills = () => {
               </div>
             </div>
             <div className="skillbox ml">
-              <h1>Data Science & Artificial Intellegence</h1>
+              <h1 className='DS-head'>Data Science & Artificial Intellegence</h1>
               <div className='sklbx'>
                 Courses : Computer Aided Applied Optimization, Application of AI and ML, Deep Learning<br/><br/>
                 Utilities : Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, Keras<br /><br />
