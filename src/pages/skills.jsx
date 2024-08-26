@@ -21,8 +21,8 @@ const skills = () => {
               <h1 className='DS-head'>Competitive Programming</h1><br />
               <div className='sklbx'>
                 Codeforces :
-                <NavLink style={{color: '#03a89e'}} className="skllink" to="https://codeforces.com/profile/adarsh2002"> adarsh2002</NavLink>,
-                <span> Max rating <span style={{color: '#03a89e'}}>1575</span> <br />(<span style={{color: '#03a89e'}}>specialist</span>)</span><br /><br />
+                <NavLink style={{color: '#03a89e'}} className="skllink" to="https://codeforces.com/profile/INVINCIBLE_1"> adarsh2002</NavLink>,
+                <span> Max rating <span style={{color: '#03a89e'}}>1606</span> <br />(<span style={{color: '#1E7D22'}}>specialist</span>)</span><br /><br />
                 CodeChef :
                 <NavLink style={{color: '#FFBF00'}} className="skllink" to="https://www.codechef.com/users/aadarsh2350"> adarsh2350</NavLink>,
                 <span> Max rating <span style={{color: '#FFBF00'}}>2051</span> <br />(<span style={{color: '#FFBF00'}}>5 star</span> rated)</span><br /><br />
